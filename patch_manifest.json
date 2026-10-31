@@ -1,0 +1,11 @@
+
+{
+  "version": "1.0.1",
+  "patchUrl": "https://github.com/supawat3139/ran-launcher-update/releases/download/v1.0.1/patch_multi_1.0.1.zip",
+  "sha256": "4290C7BA5E7A3069F4F23C13CF3E84D5673D4FC9892FB89FB04CB7CD8048FD57",
+  "files": [
+    "Data/items.txt",
+    "Data/maps.txt",
+    "Config/settings.txt"
+  ]
+}
